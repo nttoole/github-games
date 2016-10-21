@@ -4,7 +4,7 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: http://nttoole.github.io/github-games/
 
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+Instructions for Tetris, seriously? Have you been living under a rock your whole life???
 
 Are you really gonna run it on Internet Explorer though??
 
